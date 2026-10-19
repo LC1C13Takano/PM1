@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Helloo World!\n";
+    std::cout << "Helloo,pullRequest!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
