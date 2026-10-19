@@ -5,10 +5,8 @@
 
 int main()
 {
-    std::cout << "Helloo World!\n";
+    std::cout << "Helloo,pullRequest!\n";
 }
-
-// うああ
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
